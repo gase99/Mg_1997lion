@@ -18,9 +18,9 @@ API_HASH = '2a0ecd8f8118fa7569d8b008d4056c3a' #     |
 #---------------------------------------------------+
 
 app = Client(
-    name="Mersad_Self",
-    api_id = API_ID,
-    api_hash = API_HASH
+    name= "mahdi_solf ,
+    api_id = 11647547,
+    api_hash = e504a726c92aac7074c4ba4f183ffefd
 )
 
 db = sqlite3.connect('database.sqlite')
